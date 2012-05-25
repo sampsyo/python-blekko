@@ -6,7 +6,7 @@ def _read(fn):
     return open(path).read()
 
 setup(name='blekko',
-      version='0.1',
+      version='0.1.1',
       description='bindings for the Blekko search engine API',
       author='Adrian Sampson',
       author_email='adrian@radbox.org',
